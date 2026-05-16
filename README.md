@@ -405,6 +405,7 @@ For wallet UIs, portfolio dashboards, and balance/PnL aggregation.
 | **Circle USDC Data** | USDC supply, mint/burn | 🟢 Live | [circle.com](https://www.circle.com) |
 | **MakerDAO API** | DAI supply + stability fees | 🟢 Live | [makerdao.com](https://makerdao.com) |
 | **Frax API** | Frax stablecoin metrics | 🟢 Live | [frax.finance](https://frax.finance) |
+| **Pharos API** | Peg stress, liquidity, safety scores, blacklist events, mint/burn flows, and chain-health data | 🟢 Live | [pharos.watch/about/api](https://pharos.watch/about/api/) |
 
 ---
 
