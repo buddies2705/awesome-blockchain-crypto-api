@@ -175,6 +175,7 @@ Raw JSON-RPC + Web3-RPC endpoints for sending transactions, querying state, and 
 | **Lava Network** | EVM + Solana | Decentralized RPC marketplace | 🟢 Live | [lavanet.xyz](https://www.lavanet.xyz) |
 | **Glif** | Filecoin | Filecoin RPC + APIs | 🟢 Live | [glif.io](https://www.glif.io) |
 | **Solana Foundation Public RPC** | Solana | Free, rate-limited | 🟢 Live | [docs.solana.com](https://docs.solana.com) |
+| **Azul** | Base | Free, no-signup; sandwich-resistant; no logs | 🟢 Live | [baseazul.dev](https://baseazul.dev) |
 
 ---
 
@@ -439,6 +440,7 @@ For wallet UIs, portfolio dashboards, and balance/PnL aggregation.
 | **Manifold Finance** | Multichain | MEV-protected RPC | 🟢 Live | [manifoldfinance.com](https://www.manifoldfinance.com) |
 | **mev.fyi** | Multichain | MEV research database | 🟢 Live | [mev.fyi](https://mev.fyi) |
 | **Sandwich.dev** | EVM | Sandwich attack detection | 🟢 Live | [sandwich.dev](https://sandwich.dev) |
+| **Azul** | Base | Sandwich-resistant public RPC for Base | 🟢 Live | [baseazul.dev](https://baseazul.dev) |
 
 ---
 
