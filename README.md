@@ -271,6 +271,7 @@ For Ethereum, Base, Arbitrum, Optimism, Polygon, BSC, Avalanche, and other EVM c
 | **Kaiko** | Institutional, regulated-grade data | Paid | 🟢 Live | [kaiko.com](https://www.kaiko.com) |
 | **Amberdata** | Institutional crypto data + DeFi | Paid | 🟢 Live | [amberdata.io](https://www.amberdata.io) |
 | **CoinAPI** | Unified crypto market data API | ✅ Trial | 🟢 Live | [coinapi.io](https://www.coinapi.io) |
+| **SiftingIO** | Market data API with crypto + DEX, REST + WebSocket | ✅ Free | 🟢 Live | [sifting.io](https://sifting.io) |
 | **CoinPaprika API** | Free coin metrics + market data | ✅ Free | 🟢 Live | [coinpaprika.com](https://api.coinpaprika.com) |
 | **CoinLore API** | Free crypto data + tickers | ✅ Free | 🟢 Live | [coinlore.com](https://www.coinlore.com/cryptocurrency-data-api) |
 | **Bitquery Price API** | Outlier-filtered DEX prices, OHLCV | ✅ Free | 🟢 Live | [bitquery.io](https://docs.bitquery.io/docs/trading/crypto-price-api/introduction/) |
