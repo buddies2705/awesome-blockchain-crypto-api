@@ -613,6 +613,7 @@ Connect AI agents (Claude / Cursor / ChatGPT / Codex) directly to blockchain dat
 | **Chainlink Feeds MCP** | Chainlink | Real-time decentralized prices | 🟢 Live | [Chainlink MCP](https://github.com/kukapay/chainlink-feeds-mcp) |
 | **DexScreener Trending MCP** | DexScreener | Trending tokens feed | 🟢 Live | [DexScreener MCP](https://github.com/kukapay/dexscreener-trending-mcp) |
 | **Dappier MCP** | Dappier | Real-time crypto + finance content | 🟢 Live | [Dappier MCP](https://github.com/DappierAI/dappier-mcp) |
+| 🆕 **Spraay** | Spraay | x402 payment gateway — 157 endpoints across 39 categories (AI inference, DeFi, escrow, batch payments, geospatial, research, compute futures). MCP server with 161 tools. Pay-per-call in USDC, no API keys. | 🟢 Live | [Spraay Gateway](https://gateway.spraay.app) |
 
 ---
 
