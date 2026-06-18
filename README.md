@@ -710,6 +710,7 @@ For hobbyists, side-projects, and indie hackers who want to avoid signups.
 
 ### Comparison & benchmarks
 
+- [OpenChainBench (live benchmarks of crypto data APIs, RPCs, DEX aggregators, L1/L2 finality, refreshed every 10 to 60 seconds, CC-BY-4.0)](https://openchainbench.com)
 - [CoinCodeCap — Solana gRPC: Helius vs Bitquery vs QuickNode vs Shyft](https://coincodecap.com/solana-grpc-helius-vs-bitquery-vs-quicknode-vs-shyft-which-one-should-you-choose)
 - [CoinCodeCap — Top 7 Solana gRPC Providers (2026)](https://coincodecap.com/top-7-solana-grpc-providers-for-real-time-data)
 - [Alchemy — Best Blockchain APIs for Onchain Apps](https://blog.alchemyapi.io/overviews/best-blockchain-apis-for-building-onchain-applications)
