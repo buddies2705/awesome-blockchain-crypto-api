@@ -613,6 +613,7 @@ Connect AI agents (Claude / Cursor / ChatGPT / Codex) directly to blockchain dat
 | **Chainlink Feeds MCP** | Chainlink | Real-time decentralized prices | 🟢 Live | [Chainlink MCP](https://github.com/kukapay/chainlink-feeds-mcp) |
 | **DexScreener Trending MCP** | DexScreener | Trending tokens feed | 🟢 Live | [DexScreener MCP](https://github.com/kukapay/dexscreener-trending-mcp) |
 | **Dappier MCP** | Dappier | Real-time crypto + finance content | 🟢 Live | [Dappier MCP](https://github.com/DappierAI/dappier-mcp) |
+| **AgentServices MCP** | AgentServices | 37 tools — market data, FX, indicators, portfolio analytics. x402 per-call payments on Base | 🟢 Live | [agentservices.to/mcp](https://agentservices.to/mcp) |
 
 ---
 
@@ -815,4 +816,3 @@ If you arrived here looking for any of the following, you're in the right place:
 - **Cross-chain swap router** — LiFi + Squid + Socket + deBridge for multi-bridge routing.
 - **Researcher / analyst** — Dune + Flipside + Allium + Footprint for SQL-based crypto research.
 - **MEV bot** — Flashbots + Jito + bloXroute + Bitquery for back-running detection.
-
