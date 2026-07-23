@@ -146,6 +146,7 @@ The "data warehouse" layer — query indexed blockchain data across many chains 
 | **Pinax** | Multichain | The Graph-backed substreams | 🟢 Live | [pinax.network](https://pinax.network) |
 | **Allium** | Multichain | Enterprise-grade structured blockchain data | 🟢 Live | [allium.so](https://allium.so) |
 | **Footprint Analytics** | Multichain | Unified chain data + dashboards | 🟢 Live | [footprint.network](https://www.footprint.network) |
+| **Formo API** | Multichain | Project-scoped product and onchain analytics, SQL, events, wallet profiles, and MCP access | 🟢 Live | [formo.so](https://formo.so/) |
 
 ---
 
@@ -815,4 +816,3 @@ If you arrived here looking for any of the following, you're in the right place:
 - **Cross-chain swap router** — LiFi + Squid + Socket + deBridge for multi-bridge routing.
 - **Researcher / analyst** — Dune + Flipside + Allium + Footprint for SQL-based crypto research.
 - **MEV bot** — Flashbots + Jito + bloXroute + Bitquery for back-running detection.
-
