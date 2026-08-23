@@ -294,6 +294,7 @@ For real-time DEX trades, pairs, liquidity, and OHLCV.
 | ⚡ **Bitquery DEX** | 8+ chains | Outlier-filtered, decoded, GraphQL/Kafka | 🟢 Live | [bitquery.io](https://bitquery.io/) |
 | ⚡ **DexScreener API** | Multichain | The default DEX data API, free | 🟢 Live | [docs.dexscreener.com](https://docs.dexscreener.com) |
 | ⚡ **GeckoTerminal API** | Multichain | CoinGecko's free DEX API | 🟢 Live | [geckoterminal.com](https://www.geckoterminal.com/api) |
+| **CoinVerum API** | Ethereum mainnet | On-chain DEX TVL, volume, trades, pools, token prices + OpenAPI 3.1 | 🟢 Live | [coinverum.com/data-api](https://coinverum.com/data-api) |
 | **DexPaprika** | 20+ chains | Real-time DEX data, 5M+ tokens | 🟢 Live | [dexpaprika.com](https://docs.dexpaprika.com) |
 | **DexTools API** | Multichain | DEX discovery + audits | 🟢 Live | [dextools.io](https://dextools.io) |
 | **Defined.fi API** | Multichain | Pro-grade pair data API | 🟢 Live | [defined.fi/api](https://www.defined.fi/api) |
