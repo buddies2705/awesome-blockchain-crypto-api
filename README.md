@@ -282,6 +282,7 @@ For Ethereum, Base, Arbitrum, Optimism, Polygon, BSC, Avalanche, and other EVM c
 | **Santiment** | On-chain + social + dev metrics | ✅ + Paid | 🟢 Live | [santiment.net](https://santiment.net) |
 | **LunarCrush** | Social sentiment + Galaxy Score | ✅ + Paid | 🟢 Live | [lunarcrush.com](https://lunarcrush.com) |
 | **CryptoAPIs** | Unified market API | ✅ Trial | 🟢 Live | [cryptoapis.io](https://cryptoapis.io) |
+| **SnowSignals TrendVane** | Multi-timeframe market-phase (regime) states + historical transition/MFE-MAE stats, REST + MCP | ✅ Free | 🟢 Live | [snowsignals.io](https://snowsignals.io) |
 
 ---
 
