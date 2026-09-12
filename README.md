@@ -358,6 +358,7 @@ For TVL, protocol-level metrics, lending markets, perps, vaults, yields.
 | --- | --- | --- | --- | --- |
 | ⚡ **Nansen API** | Multichain | 500M+ labeled wallets, smart-money flows | 🟢 Live | [nansen.ai](https://nansen.ai) |
 | ⚡ **Arkham API** | Multichain | Entity de-anonymisation, KOL tags | 🟢 Live | [arkm.com](https://arkm.com/register?ref=03c4c435-9a97-4553-850d-c91faf29c7b8) |
+| **bridge-watch API** | Base (EVM) | 100k+ entity labels, sybil clustering, tx explainer, USDC pay-per-call | 🟢 Live | [agentsapi.top](https://agentsapi.top) |
 | **Cielo API** | 30+ chains | Cross-chain wallet tracking | 🟢 Live | [cielo.finance](https://cielo.finance) |
 | **GMGN API** | Multichain | Smart-money + KOL feeds (memecoin focus) | 🟢 Live | [gmgn.ai](https://gmgn.ai) |
 | **Lookonchain** | Multichain | Real-time whale tracking | 🟢 Live | [lookonchain.com](https://lookonchain.com) |
