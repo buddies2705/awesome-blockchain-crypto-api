@@ -703,6 +703,7 @@ For hobbyists, side-projects, and indie hackers who want to avoid signups.
 | 🆓 **Etherscan (free tier)** | EVM tx history | 🟢 Live | [etherscan.io](https://etherscan.io) |
 | 🆓 **Solscan free** | Solana explorer data | 🟢 Live | [solscan.io](https://solscan.io) |
 | 🆓 **Uniswap subgraphs** | Uniswap data | 🟢 Live | [uniswap.org](https://uniswap.org) |
+- [HostDeFi](https://hostdefi.com/docs/api/) - Free keyless token-safety API: A+–F grades for Solana/EVM tokens, 100 checks/day per IP, no signup.
 
 ---
 
