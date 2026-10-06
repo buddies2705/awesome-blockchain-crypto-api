@@ -167,6 +167,7 @@ Raw JSON-RPC + Web3-RPC endpoints for sending transactions, querying state, and 
 | **OnFinality** | 80+ | Multi-chain RPC + indexing | 🟢 Live | [onfinality.io](https://onfinality.io) |
 | **Dwellir** | 60+ | EU-based premium RPC | 🟢 Live | [dwellir.com](https://www.dwellir.com) |
 | **Infura (Consensys)** | 20+ | The OG EVM RPC | 🟢 Live | [infura.io](https://infura.io) |
+| **LYFTIUM** | Ethereum Mainnet | Plain RPM pricing, `X-Api-Key` header, fail-closed tip (HTTP 503) | 🟢 Live | [lyftium.com](https://www.lyftium.com) |
 | **HypeRPC** | Hyperliquid | First dedicated Hyperliquid RPC | 🟢 Live | [hyperpc.app](https://hyperpc.app) |
 | **PublicNode** | 30+ | Free public RPC | 🟢 Live | [publicnode.com](https://www.publicnode.com) |
 | **NodeReal** | EVM | BSC + opBNB + EVM RPC | 🟢 Live | [nodereal.io](https://nodereal.io) |
