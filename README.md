@@ -216,7 +216,7 @@ For Ethereum, Base, Arbitrum, Optimism, Polygon, BSC, Avalanche, and other EVM c
 | **Moralis EVM** | Wallet, Token, NFT, DeFi APIs | 🟢 Live | [moralis.io](https://moralis.io) |
 | **Covalent EVM** | Unified balances + tx history | 🟢 Live | [covalenthq.com](https://www.covalenthq.com) |
 | **The Graph (EVM)** | Subgraphs for any EVM chain | 🟢 Live | [thegraph.com](https://thegraph.com) |
-| **Goldsky** | EVM real-time indexing | 🟢 Live | [goldsky.com](https://goldsky.com) |
+| **Goldsky** | Multi-chain real-time indexing, incl. non-EVM | 🟢 Live | [goldsky.com](https://goldsky.com) |
 | **Subsquid** | EVM indexer | 🟢 Live | [subsquid.io](https://www.subsquid.io) |
 | **Envio** | High-performance EVM indexer | 🟢 Live | [envio.dev](https://envio.dev) |
 | **DefiLlama API** | TVL + DeFi data per chain | 🟢 Live | [defillama.com/docs/api](https://defillama.com/docs/api) |
@@ -468,7 +468,7 @@ For low-latency, real-time blockchain data feeds — essential for trading bots,
 | ⚡ **QuickNode Streams** | Block, log, trace | 25+ chains | 🟢 Live | [quicknode.com](https://www.quicknode.com) |
 | **Triton Geyser** | Solana | Sub-ms Solana streams | 🟢 Live | [triton.one](https://triton.one) |
 | **Substreams (StreamingFast)** | Subgraph-style streams | EVM + Solana + Cosmos | 🟢 Live | [substreams.streamingfast.io](https://substreams.streamingfast.io) |
-| **Goldsky Streams** | EVM | EVM real-time indexing | 🟢 Live | [goldsky.com](https://goldsky.com) |
+| **Goldsky Turbo Pipelines** | Multi-chain | Real-time data streaming | 🟢 Live | [goldsky.com](https://goldsky.com) |
 | **Alchemy Notify** | EVM | Webhook notifications | 🟢 Live | [alchemy.com/notify](https://www.alchemy.com/notify) |
 | **Moralis Streams** | EVM + Solana | Webhook + WebSocket | 🟢 Live | [moralis.io/streams](https://moralis.io) |
 | **Web3.py / Web3.js Subscriptions** | EVM | WebSocket subscriptions | 🟢 Live | [web3py.readthedocs.io](https://web3py.readthedocs.io) |
@@ -489,7 +489,7 @@ For backtesting, research, audit, and long-tail analytics.
 | ⚡ **Dune Analytics** | Multichain | SQL on Spellbook tables | 🟢 Live | [dune.com](https://dune.com) |
 | ⚡ **Flipside Crypto** | Multichain | Curated SQL tables | 🟢 Live | [flipsidecrypto.xyz](https://flipsidecrypto.xyz) |
 | **Allium** | Multichain | Enterprise structured archive | 🟢 Live | [allium.so](https://allium.so) |
-| **Goldsky Mirror** | EVM | Postgres-style historical indexing | 🟢 Live | [goldsky.com/mirror](https://goldsky.com) |
+| **Goldsky Turbo Pipelines** | Multi-chain, incl. non-EVM | Postgres/ClickHouse-style historical streaming | 🟢 Live | [docs.goldsky.com/turbo-pipelines/introduction](https://docs.goldsky.com/turbo-pipelines/introduction) |
 | **Google BigQuery (Crypto Public Datasets)** | BTC + ETH + Solana | Free public datasets | 🟢 Live | [Google Cloud](https://console.cloud.google.com/marketplace/browse?filter=category:web3) |
 | **AWS Public Blockchain Data** | EVM + Solana | AWS-hosted public datasets | 🟢 Live | [aws.amazon.com](https://aws.amazon.com/blockchain) |
 | **Chainalysis Reactor API** | Multichain | Compliance + investigation | 🟢 Live | [chainalysis.com](https://www.chainalysis.com) |
@@ -506,7 +506,7 @@ For builders who need their own indexed data (custom subgraphs, processors, ETL)
 | Tool | Strengths | Status | Website |
 | --- | --- | --- | --- |
 | ⚡ **The Graph** | Decentralised subgraph network | 🟢 Live | [thegraph.com](https://thegraph.com) |
-| ⚡ **Goldsky** | Real-time EVM indexing + Mirror | 🟢 Live | [goldsky.com](https://goldsky.com) |
+| ⚡ **Goldsky** | Real-time multi-chain indexing + Turbo Pipelines | 🟢 Live | [goldsky.com](https://goldsky.com) |
 | ⚡ **Substreams (StreamingFast)** | Stream-based indexing | 🟢 Live | [substreams.streamingfast.io](https://substreams.streamingfast.io) |
 | **Subsquid** | Open-source indexer | 🟢 Live | [subsquid.io](https://www.subsquid.io) |
 | **Envio** | High-performance HyperIndex | 🟢 Live | [envio.dev](https://envio.dev) |
