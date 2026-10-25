@@ -158,6 +158,7 @@ Raw JSON-RPC + Web3-RPC endpoints for sending transactions, querying state, and 
 | ⚡ **Alchemy** | 30+ | Sandbox tier, smart contract APIs | 🟢 Live | [alchemy.com](https://www.alchemy.com) |
 | ⚡ **QuickNode** | 25+ | Lowest p50 latency in many tests | 🟢 Live | [quicknode.com](https://www.quicknode.com) |
 | ⚡ **Helius** | Solana | Premium Solana RPC, DAS, Webhooks | 🟢 Live | [helius.dev](https://www.helius.dev/) |
+| **BlockVectra** | EVM, including Robinhood Chain and BSC | JSON-RPC and WebSocket; public RPC methods vary by chain | 🟢 Live | [Docs](https://docs.blockvectra.com/en/) |
 | ⚡ **Chainstack** | 70+ | Elastic Nodes, geo-load-balanced | 🟢 Live | [chainstack.com](https://chainstack.com) |
 | **Triton One** | Solana | Premium Solana, gRPC + Geyser | 🟢 Live | [triton.one](https://triton.one) |
 | **Shyft** | Solana | RPC + APIs | 🟢 Live | [shyft.to](https://shyft.to) |
