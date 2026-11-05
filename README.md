@@ -674,6 +674,7 @@ For builders who need both on-chain and off-chain (CEX) data.
 | **Solders** | Python | Solana | 🟢 Live | [GitHub](https://github.com/kevinheavey/solders) |
 | **Solana Agent Kit** | TS | AI-agent toolkit (SendAI) | 🟢 Live | [GitHub](https://github.com/sendaifun/solana-agent-kit) |
 | **GOAT SDK** | TS / Python | Multi-chain AI-agent SDK | 🟢 Live | [GitHub](https://github.com/goat-sdk/goat) |
+| **Hyperliquid JavaScript SDK** | JS / TS | Hyperliquid | 🟢 Live | [siebly.io](https://siebly.io/sdk/hyperliquid/javascript) |
 | **Hyperliquid Python SDK** | Python | Hyperliquid | 🟢 Live | [GitHub](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) |
 | **CCXT** | Python / JS / PHP | CEX unification | 🟢 Live | [ccxt.com](https://ccxt.com) |
 | **Bitcoin Core libbitcoin** | C++ | Bitcoin | 🟢 Live | [libbitcoin](https://libbitcoin.info) |
