@@ -173,6 +173,7 @@ Raw JSON-RPC + Web3-RPC endpoints for sending transactions, querying state, and 
 | **BlastAPI** | 70+ | Multi-chain RPC | 🟢 Live | [blastapi.io](https://blastapi.io) |
 | **Tenderly Web3 Gateway** | EVM | RPC + simulation in one | 🟢 Live | [tenderly.co](https://tenderly.co) |
 | **Lava Network** | EVM + Solana | Decentralized RPC marketplace | 🟢 Live | [lavanet.xyz](https://www.lavanet.xyz) |
+| **RouteMesh** | Ethereum and other EVM chains | Automatic upstream failover, low-latency routing, and USD pay-as-you-go pricing per method | 🟢 Live | [routeme.sh](https://routeme.sh/) |
 | **Glif** | Filecoin | Filecoin RPC + APIs | 🟢 Live | [glif.io](https://www.glif.io) |
 | **Solana Foundation Public RPC** | Solana | Free, rate-limited | 🟢 Live | [docs.solana.com](https://docs.solana.com) |
 
